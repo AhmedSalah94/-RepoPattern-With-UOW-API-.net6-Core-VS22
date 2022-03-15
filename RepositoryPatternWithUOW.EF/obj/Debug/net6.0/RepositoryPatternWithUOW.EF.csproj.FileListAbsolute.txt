@@ -1,0 +1,17 @@
+C:\Users\Lapcom Store\Desktop\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOW.EF\bin\Debug\net6.0\RepositoryPatternWithUOW.EF.deps.json
+C:\Users\Lapcom Store\Desktop\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOW.EF\bin\Debug\net6.0\RepositoryPatternWithUOW.EF.runtimeconfig.json
+C:\Users\Lapcom Store\Desktop\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOW.EF\bin\Debug\net6.0\RepositoryPatternWithUOW.EF.dll
+C:\Users\Lapcom Store\Desktop\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOW.EF\bin\Debug\net6.0\RepositoryPatternWithUOW.EF.pdb
+C:\Users\Lapcom Store\Desktop\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOW.EF\bin\Debug\net6.0\RepositoryPatternWithUOW.Core.dll
+C:\Users\Lapcom Store\Desktop\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOW.EF\bin\Debug\net6.0\RepositoryPatternWithUOW.Core.pdb
+C:\Users\Lapcom Store\Desktop\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOW.EF\obj\Debug\net6.0\RepositoryPatternWithUOW.EF.csproj.AssemblyReference.cache
+C:\Users\Lapcom Store\Desktop\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOW.EF\obj\Debug\net6.0\RepositoryPatternWithUOW.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lapcom Store\Desktop\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOW.EF\obj\Debug\net6.0\RepositoryPatternWithUOW.EF.AssemblyInfoInputs.cache
+C:\Users\Lapcom Store\Desktop\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOW.EF\obj\Debug\net6.0\RepositoryPatternWithUOW.EF.AssemblyInfo.cs
+C:\Users\Lapcom Store\Desktop\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOW.EF\obj\Debug\net6.0\RepositoryPatternWithUOW.EF.csproj.CoreCompileInputs.cache
+C:\Users\Lapcom Store\Desktop\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOW.EF\obj\Debug\net6.0\RepositoryPatternWithUOW.EF.csproj.CopyComplete
+C:\Users\Lapcom Store\Desktop\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOW.EF\obj\Debug\net6.0\RepositoryPatternWithUOW.EF.dll
+C:\Users\Lapcom Store\Desktop\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOW.EF\obj\Debug\net6.0\refint\RepositoryPatternWithUOW.EF.dll
+C:\Users\Lapcom Store\Desktop\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOW.EF\obj\Debug\net6.0\RepositoryPatternWithUOW.EF.pdb
+C:\Users\Lapcom Store\Desktop\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOW.EF\obj\Debug\net6.0\RepositoryPatternWithUOW.EF.genruntimeconfig.cache
+C:\Users\Lapcom Store\Desktop\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOWInDotNetCore6-master\RepositoryPatternWithUOW.EF\obj\Debug\net6.0\ref\RepositoryPatternWithUOW.EF.dll

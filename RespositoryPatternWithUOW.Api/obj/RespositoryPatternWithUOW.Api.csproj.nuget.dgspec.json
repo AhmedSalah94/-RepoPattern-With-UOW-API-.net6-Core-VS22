@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\.net\\1-learn\\4- Projects\\7-RepoPattern With UOW API-.net6(Core) VS22\\RespositoryPatternWithUOW.Api\\RespositoryPatternWithUOW.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\.net\\1-learn\\4- Projects\\7-RepoPattern With UOW API-.net6(Core) VS22\\RepositoryPatternWithUOW.Core\\RepositoryPatternWithUOW.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.net\\1-learn\\4- Projects\\7-RepoPattern With UOW API-.net6(Core) VS22\\RepositoryPatternWithUOW.Core\\RepositoryPatternWithUOW.Core.csproj",
+        "projectName": "RepositoryPatternWithUOW.Core",
+        "projectPath": "D:\\.net\\1-learn\\4- Projects\\7-RepoPattern With UOW API-.net6(Core) VS22\\RepositoryPatternWithUOW.Core\\RepositoryPatternWithUOW.Core.csproj",
+        "packagesPath": "C:\\Users\\Lapcom Store\\.nuget\\packages\\",
+        "outputPath": "D:\\.net\\1-learn\\4- Projects\\7-RepoPattern With UOW API-.net6(Core) VS22\\RepositoryPatternWithUOW.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lapcom Store\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\.net\\1-learn\\4- Projects\\7-RepoPattern With UOW API-.net6(Core) VS22\\RepositoryPatternWithUOW.EF\\RepositoryPatternWithUOW.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.net\\1-learn\\4- Projects\\7-RepoPattern With UOW API-.net6(Core) VS22\\RepositoryPatternWithUOW.EF\\RepositoryPatternWithUOW.EF.csproj",
+        "projectName": "RepositoryPatternWithUOW.EF",
+        "projectPath": "D:\\.net\\1-learn\\4- Projects\\7-RepoPattern With UOW API-.net6(Core) VS22\\RepositoryPatternWithUOW.EF\\RepositoryPatternWithUOW.EF.csproj",
+        "packagesPath": "C:\\Users\\Lapcom Store\\.nuget\\packages\\",
+        "outputPath": "D:\\.net\\1-learn\\4- Projects\\7-RepoPattern With UOW API-.net6(Core) VS22\\RepositoryPatternWithUOW.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lapcom Store\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\.net\\1-learn\\4- Projects\\7-RepoPattern With UOW API-.net6(Core) VS22\\RepositoryPatternWithUOW.Core\\RepositoryPatternWithUOW.Core.csproj": {
+                "projectPath": "D:\\.net\\1-learn\\4- Projects\\7-RepoPattern With UOW API-.net6(Core) VS22\\RepositoryPatternWithUOW.Core\\RepositoryPatternWithUOW.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\.net\\1-learn\\4- Projects\\7-RepoPattern With UOW API-.net6(Core) VS22\\RespositoryPatternWithUOW.Api\\RespositoryPatternWithUOW.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.net\\1-learn\\4- Projects\\7-RepoPattern With UOW API-.net6(Core) VS22\\RespositoryPatternWithUOW.Api\\RespositoryPatternWithUOW.Api.csproj",
+        "projectName": "RespositoryPatternWithUOW.Api",
+        "projectPath": "D:\\.net\\1-learn\\4- Projects\\7-RepoPattern With UOW API-.net6(Core) VS22\\RespositoryPatternWithUOW.Api\\RespositoryPatternWithUOW.Api.csproj",
+        "packagesPath": "C:\\Users\\Lapcom Store\\.nuget\\packages\\",
+        "outputPath": "D:\\.net\\1-learn\\4- Projects\\7-RepoPattern With UOW API-.net6(Core) VS22\\RespositoryPatternWithUOW.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lapcom Store\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\.net\\1-learn\\4- Projects\\7-RepoPattern With UOW API-.net6(Core) VS22\\RepositoryPatternWithUOW.EF\\RepositoryPatternWithUOW.EF.csproj": {
+                "projectPath": "D:\\.net\\1-learn\\4- Projects\\7-RepoPattern With UOW API-.net6(Core) VS22\\RepositoryPatternWithUOW.EF\\RepositoryPatternWithUOW.EF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
